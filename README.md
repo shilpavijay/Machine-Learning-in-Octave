@@ -6,7 +6,7 @@ This repository contains implementations of Machine Learning Concepts and relate
 
  - Linear Regression 
 
-   Computing Gradient Descent   
+    * Computing Gradient Descent   
  - Logistic Regression
 
    Computing - Cost funtion, Decision Boundary
